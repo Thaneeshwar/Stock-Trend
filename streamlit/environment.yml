@@ -1,0 +1,17 @@
+name: stock-trend
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - streamlit=1.28.1
+  - plotly=5.18.0
+  - numpy=1.24.4
+  - pandas=2.0.3
+  - yfinance=0.2.33
+  - statsmodels=0.14.0
+  - scikit-learn=1.3.1
+  - scipy=1.11.4
+  - matplotlib=3.7.3
+  - python-dateutil=2.8.2
+  - pyarrow=13.0.0
